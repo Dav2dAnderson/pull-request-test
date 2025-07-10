@@ -1,0 +1,2 @@
+print("Davronbek'ning kodi")
+
